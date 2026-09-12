@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://ergenossw.github.io/ErgenOS-Website/">
-    <img src="https://ergenossw.github.io/ErgenOS-Website/assets/social-card.png" alt="ErgenOS 1.0 — Your system. Under control." width="100%">
+    <img src="https://ergenossw.github.io/ErgenOS-Website/assets/social-card.png" alt="ErgenOS 1.1 — Your system. Under control." width="100%">
   </a>
 </div>
 
 <div align="center">
 
-[![ErgenOS](https://img.shields.io/badge/ErgenOS-1.0-0aa7ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ErgenosSW/ErgenOS-Linux)
+[![ErgenOS](https://img.shields.io/badge/ErgenOS-1.1-0aa7ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ErgenosSW/ErgenOS-Linux)
 [![Website](https://img.shields.io/badge/Official_Website-Visit-0068ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/)
 [![Download](https://img.shields.io/badge/Download-ISO-0758da?style=for-the-badge&logo=files&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/#download)
 
@@ -20,7 +20,7 @@ The name **Ergenos** comes from my wonderfully imperfect attempt at Sindarin: **
 
 My main project is **[ErgenOS](https://github.com/ErgenosSW/ErgenOS-Linux)** — an independent Arch Linux based desktop distribution built around GNOME, approachable system management and practical Btrfs recovery.
 
-ErgenOS started as an experiment. It now has a complete graphical installer, its own signed package repository, dedicated desktop applications and a stable **1.0 release** tested beyond the VM.
+ErgenOS started as an experiment. It now has a complete graphical installer, its own signed package repository, dedicated desktop applications and a stable **1.1 release** tested beyond the VM.
 
 > Build it. Break it. Recover it. Improve it.
 
@@ -84,7 +84,7 @@ ErgenOS is open source and still young. Bug reports, hardware-test results, tran
 
 <div align="center">
 
-**[Explore ErgenOS](https://ergenossw.github.io/ErgenOS-Website/)** · **[Report an issue](https://github.com/ErgenosSW/ErgenOS-Linux/issues)** · **[Download 1.0](https://ergenossw.github.io/ErgenOS-Website/#download)**
+**[Explore ErgenOS](https://ergenossw.github.io/ErgenOS-Website/)** · **[Report an issue](https://github.com/ErgenosSW/ErgenOS-Linux/issues)** · **[Download 1.1](https://ergenossw.github.io/ErgenOS-Website/#download)**
 
 `Your system. Under control.`
 
