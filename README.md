@@ -47,10 +47,11 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 | Project | What it does |
 |---|---|
 | **[ErgenOS Linux](https://github.com/ErgenosSW/ErgenOS-Linux)** | The distribution, Archiso profile, Calamares installer and system defaults. |
-| **[ErgenPac](https://github.com/ErgenosSW/ErgenPac)** | Graphical package manager and system updater for Arch repositories, optional Chaotic-AUR sources and Flathub. |
+| **[ErgenPac](https://github.com/ErgenosSW/ErgenPac)** | Graphical package manager, system updater and hardware-aware Driver Manager for ErgenOS. |
 | **[ErgenCTL](https://github.com/ErgenosSW/ErgenCTL)** | Diagnostics, boot-log inspection, snapshot checks and guided system recovery. |
 | **[ErgenOS Welcome](https://github.com/ErgenosSW/ErgenOS-Welcome)** | The first-login starting point with system information and shortcuts to ErgenOS tools. |
 | **[ErgenOS Repo](https://github.com/ErgenosSW/ErgenOS-Repo)** | Signed Pacman repository and package-signing keyring for ErgenOS software. |
+| **[ErgenOS Secure Boot](https://github.com/ErgenosSW/ErgenOS-SecureBoot)** | Experimental post-install Secure Boot setup using signed shim and a locally enrolled Machine Owner Key. |
 | **[ErgenOS Website](https://github.com/ErgenosSW/ErgenOS-Website)** | Official project website, release information and installation documentation. |
 
 ## What I work with
