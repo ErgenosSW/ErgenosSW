@@ -30,11 +30,11 @@ Gaming has always been a major part of who I am. **World of Warcraft** holds a s
 
 Being both a gamer and a playtester shapes the way I build software. I notice rough edges, test strange scenarios and keep asking what happens when a real person clicks the unexpected button. It is also why gaming remains part of the long-term direction for ErgenOS — approached carefully, without claiming features before they are genuinely ready.
 
-When I'm not rebuilding an Arch-based system or chasing a broken bootloader, there is a good chance I'm somewhere in Azeroth.
-
 I also maintain **[ManyTongues](https://github.com/ErgenosSW/ManyTongues)**, my continuation of the classic Tongues roleplay addon for World of Warcraft Retail. It lets characters speak different languages, develop fluency and shape their voice with dialects and speech effects.
 
 The addon brings the original idea into modern WoW with a rebuilt settings window, gradual language learning, channel controls and per-player translators. It is a different kind of systems work — built in Lua around chat APIs, compatibility constraints and the wonderfully messy challenge of making roleplay feel more alive.
+
+*When I'm not rebuilding an Arch-based system or chasing a broken bootloader, you can probably find me somewhere in Azeroth.*
 
 **BattleTag:** `Ergenos#2697`
 
