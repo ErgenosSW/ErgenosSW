@@ -56,17 +56,40 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 
 ## What I work with
 
+<p align="center">
+  <strong>Systems &amp; infrastructure</strong>
+</p>
+
 <div align="center">
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Btrfs](https://img.shields.io/badge/Btrfs-2396ED?style=flat-square&logo=linux&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=flat-square&logo=qemu&logoColor=white)
+
+</div>
+
+<p align="center">
+  <strong>Development</strong>
+</p>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+<p align="center">
+  <strong>Desktop</strong>
+</p>
+
+<div align="center">
+
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=flat-square&logo=qemu&logoColor=white)
-![Btrfs](https://img.shields.io/badge/Btrfs-Snapshots-0aa7ff?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
