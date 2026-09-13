@@ -64,7 +64,10 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![systemd](https://img.shields.io/badge/systemd-008080?style=flat-square&logo=systemd&logoColor=white)
+![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Btrfs](https://img.shields.io/badge/Btrfs-2396ED?style=flat-square&logo=linux&logoColor=white)
+![GRUB](https://img.shields.io/badge/GRUB-5C5543?style=flat-square&logo=gnu&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=flat-square&logo=qemu&logoColor=white)
 
 </div>
@@ -76,7 +79,8 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
