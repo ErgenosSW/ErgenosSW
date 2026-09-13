@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://ergenossw.github.io/ErgenOS-Website/">
-    <img src="https://ergenossw.github.io/ErgenOS-Website/assets/social-card.png" alt="ErgenOS 1.1 — Your system. Under control." width="100%">
-  </a>
+  <img src="./assets/profile-banner.png" alt="Ergenos — Linux, gaming and worldbuilding" width="100%">
 </div>
 
 <div align="center">
