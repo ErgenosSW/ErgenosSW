@@ -22,6 +22,29 @@ ErgenOS started as an experiment. It now has a complete graphical installer, its
 
 > Build it. Break it. Recover it. Improve it.
 
+## 🎮 Full-stack gaming milestone
+
+One of the milestones I'm most proud of:
+
+> **World of Warcraft running on my own Linux distribution, through my own custom Proton build.**
+
+The complete stack:
+
+- 🐧 **ErgenOS Linux** - my Arch-based Linux distribution
+- 🍷 **ErgenProton-WoW** - my custom Proton build optimized for World of Warcraft
+- 🚀 **Faugus Launcher**
+- ⚙️ **UMU**
+- ⚔️ **World of Warcraft Retail**
+
+<p align="center">
+  <img src="./assets/ergenos-wow-stack.png" alt="World of Warcraft running on ErgenOS Linux with ErgenProton-WoW" width="100%">
+</p>
+
+This was the first full-stack WoW run where both the operating system and the Proton build were my own projects.
+
+- [ErgenOS Linux](https://github.com/ErgenosSW/ErgenOS-Linux)
+- [ErgenProton-WoW](https://github.com/ErgenosSW/ErgenProton-WoW)
+
 ## Linux by day, Azeroth by night 🎮
 
 Gaming has always been a major part of who I am. **World of Warcraft** holds a special place in that story, alongside my broader interest in games, hardware, performance and the small details that determine whether an experience feels great or merely works.
