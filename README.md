@@ -28,7 +28,7 @@ One of the milestones I'm most proud of:
 
 > **World of Warcraft running on my own Linux distribution, through my own custom Proton build.**
 
-The complete stack:
+The stack behind it:
 
 - 🐧 **ErgenOS Linux** - my Arch-based Linux distribution
 - 🍷 **ErgenProton-WoW** - my custom Proton build optimized for World of Warcraft
