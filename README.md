@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Ergenos — Linux, gaming and worldbuilding" width="100%">
+  <img src="./assets/profile-banner.png" alt="Ergenos - Linux, gaming and worldbuilding" width="100%">
 </div>
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 I'm a Linux enthusiast, system tinkerer, lifelong gamer and game playtester from Warsaw. I like taking things apart, understanding why they broke and rebuilding them into something people can actually use.
 
-The name **Ergenos** comes from my wonderfully imperfect attempt at Sindarin: **“Lone Stone Fortress.”** It stuck — first as a nickname, then as the name behind everything I build here.
+The name **Ergenos** comes from my wonderfully imperfect attempt at Sindarin: **“Lone Stone Fortress.”** It stuck - first as a nickname, then as the name behind everything I build here.
 
-My main project is **[ErgenOS](https://github.com/ErgenosSW/ErgenOS-Linux)** — an independent Arch Linux based desktop distribution built around GNOME, approachable system management and practical Btrfs recovery.
+My main project is **[ErgenOS](https://github.com/ErgenosSW/ErgenOS-Linux)** - an independent Arch Linux based desktop distribution built around GNOME, approachable system management and practical Btrfs recovery.
 
 ErgenOS started as an experiment. It now has a complete graphical installer, its own signed package repository, dedicated desktop applications and a stable **1.2 release** tested beyond the VM.
 
@@ -60,15 +60,15 @@ Being both a gamer and a playtester shapes the way I build software. I notice ro
 
 ErgenProton-WoW grew out of practical testing on ErgenOS. Its first optimization produced a measurable improvement in WoW Retail on the tested system, while Retail and Classic Era both completed real gameplay testing successfully. The project stays deliberately conservative: changes should solve a real problem or demonstrate a repeatable benefit.
 
-ManyTongues is a different kind of systems work — built in Lua around chat APIs, compatibility constraints and the wonderfully messy challenge of making roleplay feel more alive. It includes a rebuilt settings window, channel controls and per-player translators while preserving the spirit of the original addon.
+ManyTongues is a different kind of systems work - built in Lua around chat APIs, compatibility constraints and the wonderfully messy challenge of making roleplay feel more alive. It includes a rebuilt settings window, channel controls and per-player translators while preserving the spirit of the original addon.
 
 *When I'm not rebuilding an Arch-based system or chasing a broken bootloader, you can probably find me somewhere in Azeroth.*
 
 **BattleTag:** `Ergenos#2697`
 
-## Building Lurra — one layer of history at a time 🗺️
+## Building Lurra - one layer of history at a time 🗺️
 
-Alongside software, I am creating **Lurra**, my original fantasy setting. It is a long-running solo worldbuilding project with its own history, cultures, religions, conflicts, maps and stories — a world meant to feel as if it existed long before any protagonist entered it.
+Alongside software, I am creating **Lurra**, my original fantasy setting. It is a long-running solo worldbuilding project with its own history, cultures, religions, conflicts, maps and stories - a world meant to feel as if it existed long before any protagonist entered it.
 
 I am currently rebuilding Lurra from the ground up: preserving its strongest ideas while giving the world a more coherent identity, internal logic and independence from the tabletop systems that originally helped shape it.
 
@@ -136,6 +136,10 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 - Making snapshots and recovery part of normal system maintenance.
 - Expanding real-hardware testing and polishing the ErgenOS 1.x experience.
 - Developing measurable Linux gaming improvements through ErgenProton-WoW and real-world WoW testing.
+
+## Documentation
+
+Installation, recovery and troubleshooting guides are available in the [ErgenOS Wiki](https://ergenossw.github.io/ErgenOS-Wiki/), in [English](https://ergenossw.github.io/ErgenOS-Wiki/) and [Polish](https://ergenossw.github.io/ErgenOS-Wiki/pl/).
 
 ## Get involved
 
