@@ -7,6 +7,7 @@
 [![ErgenOS](https://img.shields.io/badge/ErgenOS-1.2-0aa7ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ErgenosSW/ErgenOS-Linux)
 [![Website](https://img.shields.io/badge/Official_Website-Visit-0068ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/)
 [![Download](https://img.shields.io/badge/Download-ISO-0758da?style=for-the-badge&logo=files&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/#download)
+[![ErgenOS Wiki](https://img.shields.io/badge/ErgenOS_Wiki-Read-0068ff?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ergenossw.github.io/ErgenOS-Wiki/)
 
 </div>
 
@@ -98,6 +99,7 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![systemd](https://img.shields.io/badge/systemd-008080?style=flat-square&logo=systemd&logoColor=white)
 ![Pacman](https://img.shields.io/badge/Pacman-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9?style=flat-square&logo=flatpak&logoColor=white)
 ![Btrfs](https://img.shields.io/badge/Btrfs-2396ED?style=flat-square&logo=linux&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-5C5543?style=flat-square&logo=gnu&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU%20%2F%20KVM-FF6600?style=flat-square&logo=qemu&logoColor=white)
@@ -115,6 +117,7 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -125,6 +128,7 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 <div align="center">
 
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=flat-square&logo=gtk&logoColor=black)
 
 </div>
