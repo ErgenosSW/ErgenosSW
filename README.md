@@ -69,7 +69,7 @@ ManyTongues is a different kind of systems work - built in Lua around chat APIs,
 
 ## Building Lurra - one layer of history at a time 🗺️
 
-Alongside software, I am creating **[Lurra](https://ergenossw.github.io/lurra/)**, my original fantasy setting. It is a long-running solo worldbuilding project with its own history, cultures, religions, conflicts, maps and stories - a world meant to feel as if it existed long before any protagonist entered it.
+Alongside software, I am creating **Lurra**, my original fantasy setting. It is a long-running solo worldbuilding project with its own history, cultures, religions, conflicts, maps and stories - a world meant to feel as if it existed long before any protagonist entered it.
 
 I am currently rebuilding Lurra from the ground up: preserving its strongest ideas while giving the world a more coherent identity, internal logic and independence from the tabletop systems that originally helped shape it.
 
