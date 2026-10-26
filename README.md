@@ -147,6 +147,12 @@ Lurra is the other side of how I create. ErgenOS is about understanding systems 
 
 Installation, recovery and troubleshooting guides are available in the [ErgenOS Wiki](https://ergenossw.github.io/ErgenOS-Wiki/), in [English](https://ergenossw.github.io/ErgenOS-Wiki/) and [Polish](https://ergenossw.github.io/ErgenOS-Wiki/pl/).
 
+## Contact
+
+For project, collaboration and professional inquiries:
+
+**[szymon.pilip@ergenos.dev](mailto:szymon.pilip@ergenos.dev)**
+
 ## Get involved
 
 ErgenOS is open source and still young. Bug reports, hardware-test results, translations, packaging improvements and code contributions are welcome.
