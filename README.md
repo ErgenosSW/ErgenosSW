@@ -5,6 +5,7 @@
 <div align="center">
 
 [![ErgenOS](https://img.shields.io/badge/ErgenOS-1.2-0aa7ff?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ErgenosSW/ErgenOS-Linux)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-ergenos.dev-0aa7ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ergenos.dev/)
 [![Website](https://img.shields.io/badge/Official_Website-Visit-0068ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/)
 [![Download](https://img.shields.io/badge/Download-ISO-0758da?style=for-the-badge&logo=files&logoColor=white)](https://ergenossw.github.io/ErgenOS-Website/#download)
 [![ErgenOS Wiki](https://img.shields.io/badge/ErgenOS_Wiki-Read-0068ff?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ergenossw.github.io/ErgenOS-Wiki/)
